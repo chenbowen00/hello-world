@@ -1,0 +1,45 @@
+table.gridtable {
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #666666;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+}
+table.gridtable th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #dedede;
+}
+table.gridtable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #ffffff;
+}
+
+div #mainDiv{
+    text-align:center;
+    padding-top:20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    background: url('../img/u28_normal.png') 490px 6px no-repeat;
+    background-size: 40px 40px;
+    text-align:center;
+    overflow: visible;
+    padding-left: 0px;
+    height: 50px;
+    line-height: 50px;
+}
+
